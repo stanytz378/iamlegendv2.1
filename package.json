@@ -1,0 +1,8 @@
+{
+  "name": "iamlegendv2.1",
+  "version": "1.0.0",
+  "description": "Deployment wrapper for IAMLEGEND V2",
+  "scripts": {
+    "start": "echo 'Using Docker'"
+  }
+}
