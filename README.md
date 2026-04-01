@@ -39,7 +39,7 @@
 
 | Platform | Deploy Button | Instructions |
 |----------|---------------|--------------|
-| **Heroku** | <a href="https://heroku.com/deploy?template=https://github.com/stanytz378/iamlegendv2.1"><img src="https://www.herokucdn.com/deploy/button.svg" height="105"/></a> | ⚠️ **Fork first!** After clicking, replace the repo in the URL with your fork: <br/> `https://heroku.com/deploy?template=https://github.com/YOUR_USERNAME/iamlegendv2` |
+| **Heroku** | <a href="https://heroku.com/deploy?template=https://github.com/stanytz378/iamlegendv2.1"><img src="https://www.herokucdn.com/deploy/button.svg" height="105"/></a> | ⚠️ **Fork first!** After clicking, replace the repo in the URL with your fork: <br/> `https://heroku.com/deploy?template=https://github.com/YOUR_USERNAME/iamlegendv2.1` |
 | **Render** | <a href="https://render.com/deploy?repo=https://github.com/stanytz378/iamlegendv2"><img src="https://render.com/images/deploy-to-render-button.svg" height="55"/></a> | Direct deploy |
 | **Railway** | <a href="https://railway.app/new/template?template=https://github.com/stanytz378/iamlegendv2.1"><img src="https://railway.app/button.svg" height="55"/></a> | Direct deploy |
 | **Koyeb** | <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/stanytz378/iamlegendv2.1"><img src="https://www.koyeb.com/static/images/deploy/button.svg" height="55"/></a> | Direct deploy |
@@ -67,7 +67,7 @@
 
 ```bash
 git clone https://github.com/stanytz378/iamlegendv2.git
-cd iamlegendv2
+cd iamlegendv2.1
 npm install
 cp sample.env .env
 # Edit .env – add SESSION_ID and OWNER_NUMBER
@@ -108,7 +108,7 @@ MONGO_URL=     # Optional
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt install nodejs git ffmpeg libvips-dev libwebp-dev -y
 git clone https://github.com/stanytz378/iamlegendv2.git
-cd iamlegendv2
+cd iamlegendv2.1
 npm install
 cp sample.env .env
 nano .env                 # edit your details
@@ -131,7 +131,7 @@ pm2 save && pm2 startup
 pkg update && pkg upgrade -y
 pkg install git nodejs ffmpeg -y
 git clone https://github.com/stanytz378/iamlegendv2.git
-cd iamlegendv2
+cd iamlegendv2.1
 npm install
 cp sample.env .env
 nano .env
@@ -171,7 +171,7 @@ docker logs -f iamlegend
 sudo apt update
 sudo apt install nodejs git ffmpeg -y
 git clone https://github.com/stanytz378/iamlegendv2.git
-cd iamlegendv2
+cd iamlegendv2.1
 npm install
 cp sample.env .env
 nano .env
@@ -209,10 +209,10 @@ This project is not affiliated with WhatsApp Inc. Use responsibly and within Wha
 <div align="center"><a href="https://whatsapp.com/channel/0029Vb7fzu4EwEjmsD4Tzs1p">
   <img src="https://img.shields.io/badge/Join%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="45"/>
 </a>
-<a href="https://github.com/stanytz378/iamlegendv2/issues">
+<a href="https://github.com/stanytz378/iamlegendv2.1/issues">
   <img src="https://img.shields.io/badge/Report%20Issue-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
 </a>
-<a href="https://github.com/stanytz378/iamlegendv2/stargazers">
+<a href="https://github.com/stanytz378/iamlegendv2.1/stargazers">
   <img src="https://img.shields.io/badge/⭐%20Star%20the%20Repo-gold?style=for-the-badge" height="45"/>
 </a></div>
 
