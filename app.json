@@ -1,0 +1,81 @@
+{
+  "name": "iamlegendv2",
+  "description": "High performance WhatsApp bot by STANY TZ with 250+ commands",
+  "keywords": ["whatsapp-bot", "baileys", "I AM LEGEND", "StanyTz", "whatsapp"],
+  "repository": "https://github.com/Stanytz378/iamlegendv2.1",
+  "logo": "https://raw.githubusercontent.com/stanytz378/stanyimagesservers/refs/heads/main/bg.png",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Your session ID (obtain from the pairing site)",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_NUMBER": {
+      "description": "Your WhatsApp number with country code (no +, e.g. 255618558502)",
+      "required": true,
+      "value": "255787069580"
+    },
+    "BOT_NAME": {
+      "description": "Bot display name",
+      "required": false,
+      "value": "ᴵ ᴬᴹ ᴸᴱᴳᴱᴺᴰ"
+    },
+    "BOT_OWNER": {
+      "description": "Owner display name",
+      "required": false,
+      "value": "STANYTZ"
+    },
+    "PREFIXES": {
+      "description": "Command prefixes separated by comma (e.g. .,!,/)",
+      "required": false,
+      "value": ".,!,/"
+    },
+    "PACKNAME": {
+      "description": "Sticker pack name",
+      "required": false,
+      "value": "ᴵ ᴬᴹ ᴸᴱᴳᴱᴺᴰ"
+    },
+    "COMMAND_MODE": {
+      "description": "Bot mode: public or private",
+      "required": false,
+      "value": "public"
+    },
+    "TIMEZONE": {
+      "description": "Your timezone (e.g. Africa/Nairobi)",
+      "required": false,
+      "value": "Africa/Nairobi"
+    },
+    "MONGO_URL": {
+      "description": "MongoDB URL (recommended for persistent storage)",
+      "required": false,
+      "value": ""
+    },
+    "POSTGRES_URL": {
+      "description": "PostgreSQL URL",
+      "required": false,
+      "value": ""
+    },
+    "MYSQL_URL": {
+      "description": "MySQL URL",
+      "required": false,
+      "value": ""
+    },
+    "DB_URL": {
+      "description": "SQLite database file path",
+      "required": false,
+      "value": ""
+    },
+    "REMOVEBG_KEY": {
+      "description": "Remove.bg API key for background removal",
+      "required": false,
+      "value": ""
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  }
+}
