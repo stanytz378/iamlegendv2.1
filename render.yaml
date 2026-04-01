@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: iamlegendv2
+    runtime: docker
+    dockerfilePath: Dockerfile
+    envVars:
+      - key: SESSION_ID
+        sync: false
+      - key: OWNER_NUMBER
+        sync: false
+      - key: BOT_NAME
+        value: ᴵ ᴬᴹ ᴸᴱᴳᴱᴺᴰ
+      - key: COMMAND_MODE
+        value: public
+      - key: TIMEZONE
+        value: Africa/Nairobi
