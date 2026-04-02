@@ -23,7 +23,9 @@
 <img src="https://img.shields.io/github/forks/stanytz378/iamlegendv2.1?style=for-the-badge&color=orange"/>
 
 <br/><br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANLEY+🇹🇿)](https://git.io/typing-svg) 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANY🇹🇿)](https://git.io/typing-svg) 
+
 <!-- Join Channel Button -->
 <a href="https://whatsapp.com/channel/0029Vb7fzu4EwEjmsD4Tzs1p">
   <img src="https://img.shields.io/badge/Join%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="45"/>
