@@ -1,51 +1,59 @@
-
 <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001a1a&height=200&section=header&text=LEGEND-BOT&fontSize=70&fontColor=00ffcc&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LEGEND-BOT&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=High%20Performance%20WhatsApp%20Bot&descAlignY=55&descSize=20" width="100%"/>
-<h2>🚀 Next-Gen WhatsApp Bot Framework</h2>
+# ⚡ STANY TZ BOT SYSTEM ⚡
 
-<p>
-⚡ Fast • 🔌 Plugin-Based • 🤖 Smart Automation • 🌍 Multi-Platform
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=250%2B+Commands+%F0%9F%94%A5;Matrix+Style+System;Auto+Plugins;Deploy+Anywhere;Fast+%26+Secure;Multilingual+AI+Chatbot" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=250%2B+Commands+%26+Growing;Multi-Device+Support;Auto-Loading+Plugins;Deploy+Anywhere+in+Seconds" />
+<br/>
 
-<br/><br/>
+<img src="https://img.shields.io/github/stars/stanytz378/iamlegendv2.1?style=for-the-badge&color=00ff00"/>
+<img src="https://img.shields.io/github/forks/stanytz378/iamlegendv2.1?style=for-the-badge&color=ff0000"/>
+<img src="https://img.shields.io/github/watchers/stanytz378/iamlegendv2.1?style=for-the-badge&color=00ccff"/>
+<img src="https://img.shields.io/github/issues/stanytz378/iamlegendv2.1?style=for-the-badge&color=orange"/>
+<img src="https://img.shields.io/github/license/stanytz378/iamlegendv2.1?style=for-the-badge&color=blue"/>
 
-<!-- Badges -->
-<img src="https://img.shields.io/badge/Version-6.0.0-6a11cb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Node.js-20%2B-339933?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Baileys-7.x-25D366?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/stanytz378/iamlegendv2.1?style=for-the-badge&color=gold"/>
-<img src="https://img.shields.io/github/forks/stanytz378/iamlegendv2.1?style=for-the-badge&color=orange"/>
+<br/>
 
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=4800color=RRGGBB&lines=true&vCenter=true&width=815&height=100&lines=DEVELOPER-STANY🇹🇿)](https://git.io/typing-svg) 
-
-<!-- Join Channel Button -->
-<a href="https://whatsapp.com/channel/0029Vb7fzu4EwEjmsD4Tzs1p">
-  <img src="https://img.shields.io/badge/Join%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="45"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=stanytz378&label=Visitors&color=00ffcc&style=for-the-badge"/>
 
 </div>
 
-<a href="https://session-id-generator-4xuy.onrender.com//"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=red&style=for-the-badge&logo=whatsapp"/></a></p>
 ---
-## ⚡ One-Click Deployment
+
+## 🧠 FEATURES
+
+- ⚡ Ultra Fast Response  
+- 🤖 AI Chatbot (Memory + Multilingual)  
+- 🛡️ Anti-Link / Anti-Delete  
+- 👀 Auto Status View & Like  
+- 🎙️ Auto Typing & Recording  
+- 🎯 Aviator & Mines Signals  
+- 🔌 Auto Plugin Loader  
+- 🌍 Deploy Anywhere  
+
+---
+
+## ⚡ ONE CLICK DEPLOY
 
 <div align="center">
 
-| Platform | Deploy Button | Instructions |
-|----------|---------------|--------------|
-| **Heroku** | <a href="https://heroku.com/deploy?template=https://github.com/stanytz378/iamlegendv2.1"><img src="https://www.herokucdn.com/deploy/button.svg" height="105"/></a> | ⚠️ **Fork first!** After clicking, replace the repo in the URL with your fork: <br/> `https://heroku.com/deploy?template=https://github.com/YOUR_USERNAME/iamlegendv2.1` |
-| **Render** | <a href="https://render.com/deploy?repo=https://github.com/stanytz378/iamlegendv2"><img src="https://render.com/images/deploy-to-render-button.svg" height="55"/></a> | Direct deploy |
-| **Railway** | <a href="https://railway.app/new/template?template=https://github.com/stanytz378/iamlegendv2.1"><img src="https://railway.app/button.svg" height="55"/></a> | Direct deploy |
-| **Koyeb** | <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/stanytz378/iamlegendv2.1"><img src="https://www.koyeb.com/static/images/deploy/button.svg" height="55"/></a> | Direct deploy |
-| **Fly.io** | <a href="https://fly.io/launch?repo=https://github.com/stanytz378/iamlegendv2.1"><img src="https://img.shields.io/badge/Deploy%20to-Fly.io-7B3FE4?style=for-the-badge&logo=flydotio&logoColor=white" height="35"/></a> | Direct deploy |
+| Platform | Deploy |
+|----------|--------|
+| Heroku | <a href="https://heroku.com/deploy?template=https://github.com/stanytz378/iamlegendv2.1"><img src="https://www.herokucdn.com/deploy/button.svg" height="90"/></a> |
+| Render | <a href="https://render.com/deploy?repo=https://github.com/stanytz378/iamlegendv2.1"><img src="https://render.com/images/deploy-to-render-button.svg" height="50"/></a> |
+| Railway | <a href="https://railway.app/new/template?template=https://github.com/stanytz378/iamlegendv2.1"><img src="https://railway.app/button.svg" height="50"/></a> |
+| Koyeb | <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/stanytz378/iamlegendv2.1"><img src="https://www.koyeb.com/static/images/deploy/button.svg" height="50"/></a> |
+
+</div>
+
+---
+>
+
+<a href="https://session-id-generator-4xuy.onrender.com//"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=red&style=for-the-badge&logo=whatsapp"/></a></p>
+---
+ **Fly.io** | <a href="https://fly.io/launch?repo=https://github.com/stanytz378/iamlegendv2.1"><img src="https://img.shields.io/badge/Deploy%20to-Fly.io-7B3FE4?style=for-the-badge&logo=flydotio&logoColor=white" height="35"/></a> | Direct deploy |
 | **VPS** | <a href="#-vps-linux-server"><img src="https://img.shields.io/badge/Deploy%20on-VPS%20(Linux)-000000?style=for-the-badge&logo=linux&logoColor=white" height="55"/></a> | Manual |
 | **Docker** | <a href="#-docker"><img src="https://img.shields.io/badge/Deploy%20with-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="55"/></a> | Manual |
 | **Termux** | <a href="#-termux-android"><img src="https://img.shields.io/badge/Deploy%20on-Termux-000000?style=for-the-badge&logo=android&logoColor=white" height="55"/></a> | Manual |
