@@ -48,16 +48,13 @@
 
 </div>
 
----
->
-
 <a href="https://session-id-generator-4xuy.onrender.com//"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=red&style=for-the-badge&logo=whatsapp"/></a></| Platform | Deploy |
+| Platform | Deploy |
 |----------|--------|
-| Fly.io | <a href="https://fly.io/launch?repo=https://github.com/stanytz378/iamlegendv2.1"><img src="https://img.shields.io/badge/Deploy%20to-Fly.io-7B3FE4?style=for-the-badge&logo=flydotio&logoColor=white" height="40"/></a> |
-| VPS | <a href="#-vps-linux-server"><img src="https://img.shields.io/badge/Deploy%20on-VPS%20(Linux)-000000?style=for-the-badge&logo=linux&logoColor=white" height="40"/></a> |
-| Docker | <a href="#-docker"><img src="https://img.shields.io/badge/Deploy%20with-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/></a> |
-| Termux | <a href="#-termux-android"><img src="https://img.shields.io/badge/Deploy%20on-Termux-000000?style=for-the-badge&logo=android&logoColor=white" height="40"/></a> |
-</div>
+| Fly.io | <a href="https://fly.io/launch?repo=https://github.com/stanytz378/iamlegendv2.1"><img src="https://img.shields.io/badge/Deploy%20to-Fly.io-7B3FE4?style=for-the-badge&logo=flydotio&logoColor=white" height="45"/></a> |
+| VPS (Linux) | <a href="#-vps-linux-server"><img src="https://img.shields.io/badge/Deploy%20on-VPS-000000?style=for-the-badge&logo=linux&logoColor=white" height="45"/></a> |
+| Docker | <a href="#-docker"><img src="https://img.shields.io/badge/Deploy%20with-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="45"/></a> |
+| Termux (Android) | <a href="#-termux-android"><img src="https://img.shields.io/badge/Deploy%20on-Termux-000000?style=for-the-badge&logo=android&logoColor=white" height="45"/></a> |
 
 ---
 
