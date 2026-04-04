@@ -35,9 +35,13 @@
 
 ---
 
+<div align="center">
+
 <a href="https://session-id-generator-4xuy.onrender.com/">
-  <img src="https://img.shields.io/badge/Session%20ID-Generate-00F5D4?style=for-the-badge&labelColor=000000&logo=whatsapp&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/🚀%20GET%20SESSION%20NOW-00F5D4?style=for-the-badge&labelColor=000000&logo=whatsapp&logoColor=white" height="60"/>
 </a>
+
+</div>
 
 ## ⚡ ONE CLICK DEPLOY
 
