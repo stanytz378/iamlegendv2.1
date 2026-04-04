@@ -37,11 +37,17 @@
 
 <div align="center">
 
+<!-- SLIDING TEXT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Generate+Your+Session+ID;Fast+%26+Secure;One+Click+Only;Start+Deploying+Now" />
+
+<br/>
+
+<!-- HERO BUTTON -->
 <a href="https://session-id-generator-4xuy.onrender.com/">
-  <img src="https://img.shields.io/badge/🚀%20GET%20SESSION%20NOW-00F5D4?style=for-the-badge&labelColor=000000&logo=whatsapp&logoColor=white" height="60"/>
+  <img src="https://img.shields.io/badge/SESSION%20ID-GENERATE-00F5D4?style=for-the-badge&labelColor=000000&logo=whatsapp&logoColor=white" height="60"/>
 </a>
 
-</div>
+</div>>
 
 ## ⚡ ONE CLICK DEPLOY
 
