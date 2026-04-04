@@ -44,7 +44,7 @@
 
 <!-- HERO BUTTON -->
 <a href="https://session-id-generator-4xuy.onrender.com/">
-  <img src="https://img.shields.io/badge/SESSION%20ID-GENERATE-00F5D4?style=for-the-badge&labelColor=ff0000&logo=whatsapp&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/SESSION%20ID-GENERATE-00F5D4?style=for-the-badge&labelColor=00ff00&logo=whatsapp&logoColor=white" height="80"/>
 </a>
 
 </div>
