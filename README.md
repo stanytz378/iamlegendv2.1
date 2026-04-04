@@ -38,13 +38,13 @@
 <div align="center">
 
 <!-- SLIDING TEXT -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Generate+Your+Session+ID;Fast+%26+Secure;One+Click+Only;Start+Deploying+Now" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=ff0000&center=true&vCenter=true&width=600&lines=Generate+Your+Session+ID;Fast+%26+Secure;One+Click+Only;Start+Deploying+Now" />
 
 <br/>
 
 <!-- HERO BUTTON -->
 <a href="https://session-id-generator-4xuy.onrender.com/">
-  <img src="https://img.shields.io/badge/SESSION%20ID-GENERATE-00F5D4?style=for-the-badge&labelColor=00ffcc&logo=whatsapp&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/SESSION%20ID-GENERATE-00F5D4?style=for-the-badge&labelColor=ff0000&logo=whatsapp&logoColor=white" height="80"/>
 </a>
 
 </div>
