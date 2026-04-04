@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001a1a&height=200&section=header&text=LEGEND-BOT&fontSize=70&fontColor=00ffcc&animation=fadeIn"/>
 
-# ⚡ STANY TZ BOT SYSTEM ⚡
+#   STANY TZ BOT SYSTEM 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=250%2B+Commands+%F0%9F%94%A5;Matrix+Style+System;Auto+Plugins;Deploy+Anywhere;Fast+%26+Secure;Multilingual+AI+Chatbot" />
 
