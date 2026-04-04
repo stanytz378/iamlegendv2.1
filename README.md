@@ -48,8 +48,6 @@
 
 </div>
 
-<a href="https://session-id-generator-4xuy.onrender.com//"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=red&style=for-the-badge&logo=whatsapp"/></a>
-
 ### OTHER DEPLOYMENT PLATFORM
 
 <div align="center">
