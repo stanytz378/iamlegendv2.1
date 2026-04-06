@@ -69,7 +69,7 @@
     "REMOVEBG_KEY": {
       "description": "Remove.bg API key for background removal",
       "required": false,
-      "value": ""
+      "value": "pFoEUjX6WFSPGmyhV6sMYfQx"
     }
   },
   "formation": {
